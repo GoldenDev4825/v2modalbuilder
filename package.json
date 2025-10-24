@@ -1,6 +1,6 @@
 {
   "name": "v2modalbuilder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A discord.js v2components builder",
   "main": "index.js",
   "exports": {
